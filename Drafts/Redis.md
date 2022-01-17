@@ -7,6 +7,8 @@ docker volume create redis-data
 
 ```
 
+---
+
 ## Running
 
 ```docker
@@ -14,6 +16,8 @@ docker run --name redis -d -v redis-data:/data -p 6379:6379 -e REDIS_PASSWORD=re
     redis redis-server --appendonly yes --requirepass ${REDIS_PASSWORD}
 
 ```
+
+---
 
 ## Remove
 
