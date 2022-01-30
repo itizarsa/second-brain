@@ -1,6 +1,6 @@
 # SUMMARY
 
-- [Welcome](Welcome!.md)
+- [Home](INDEX.md)
 
 - PROJECTS
 
