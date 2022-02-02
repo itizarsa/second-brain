@@ -50,6 +50,15 @@
 - Implemented Nest.js Mono Repo with GraphQL, Database, Platform (Shopify & Woo), Auth, Linting, Formatting & Git Hooks
 - Implemented PDP POC on Mono Repo
 - Implement Store Module
+- Defined PR check list & git workflow for the team
+- Helped team on User, Role, Permission, Merchant, Platform & Address module
+- Implemented Authorization flow for the API
+- Setup pipeline to build, test, lint, format & deploy merges to dev
+- Setup staging deployment
+- Implement docs for core app
+- Helped team on Unit Tests for Resolvers & Services on User, Role, Permission, Merchant & Address module
+- Implemented Utils for Tests
+- 
 
 ### Collaboration & mentorship
 

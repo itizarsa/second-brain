@@ -1,9 +1,7 @@
 ---
 tags: 📥️/💭️/🟥️
-publish: true
 aliases:
   - 
-cssclass: 
 type: thought
 status: 🟥️
 ---

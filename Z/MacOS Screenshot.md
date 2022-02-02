@@ -1,5 +1,3 @@
-# MacOS Screenshot
-
 ```
 defaults write com.apple.screencapture name "SS"
 

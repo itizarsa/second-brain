@@ -1,6 +1,5 @@
 ---
 tags: 📥️/📰️/🟥️
-publish: true
 aliases: 
 type: article
 status: 🟥️
