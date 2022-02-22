@@ -58,6 +58,15 @@
 - Implement docs for core app
 - Helped team on Unit Tests for Resolvers & Services on User, Role, Permission, Merchant & Address module
 - Implemented Utils for Tests
+- Woo Merchant Login/Register & Install plugin
+- Vajro Mock Dashboard for Shopify Install Flow & Login from Shopify admin
+- Modify Woo & Shopify Install to REST API
+- Fix login from Shopify admin
+- Repository Pattern for Merchant
+- Update dependencies
+
+21/02/2022
+- Internalization & Standardise error structure
 - 
 
 ### Collaboration & mentorship
