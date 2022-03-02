@@ -39,6 +39,10 @@ aliases: backend
 	- DDOS
 	- Web/Network Security
 
+### OSI Model
+
+
+
 ---
 - Tags: 
 	- 
