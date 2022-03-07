@@ -65,9 +65,14 @@
 - Repository Pattern for Merchant
 - Update dependencies
 
-21/02/2022
+21/02/2022 - 27/02/2022
 - Internalization & Standardise error structure
-- 
+- Modify GraphQL error format
+- Helped team on Permission framework & Httpyac
+
+28/02/2022 - 06/03/2022
+- Logging & Alerting Analysis
+- Helped team on Docker implementation
 
 ### Collaboration & mentorship
 
