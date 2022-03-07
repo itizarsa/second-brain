@@ -41,6 +41,13 @@ aliases: backend
 
 ### OSI Model
 
+- Layer 7 - Application
+	- Converts http://10.0.0.3:80 
+	- GET / 10.0.0.3:80 with Headers, Cookies, Etc.,
+
+- Layer 6 - Presentation
+	- Encrypt if necessary (In the case of https)
+
 
 
 ---
