@@ -74,6 +74,22 @@
 - Logging & Alerting Analysis
 - Helped team on Docker implementation
 
+07/03/2022 - 13/03/2022
+- Logging Analysis & Implementation
+- Emit Request Logs
+
+14/03/2022 - 20/03/2022
+- Setup Datadog & Drain logs from heroku to Datadog
+- Modify Pipelines & Index on Datadog (Suppress unwanted logs)
+- Order GMV (Volume & Value calculation) CLI 
+
+21/03/2022 - 27/03/2022
+- Helped on Cron Utilities (Http, BullMq, Bull Board & Firebase)
+- Helped on Axios Wrapper & Memory leak analysis
+- Order GMV cron
+
+
+
 ### Collaboration & mentorship
 
 > 
@@ -119,6 +135,8 @@
 > 
 
 ### What you learned
+
+- Built a simple CLI using Node.js
 
 > 
 > My friend Julian suggested this section and I think it’s a great idea – try listing important things you learned or skills you’ve acquired recently! Some examples of skills you might be learning or improving:
