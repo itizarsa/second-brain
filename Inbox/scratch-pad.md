@@ -1,4 +1,4 @@
-# Scratch
+# Scratch Pad
 
 ```jsx
 db.users.find({ email: "saas@spritle.com"}).pretty()

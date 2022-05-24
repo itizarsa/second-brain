@@ -88,7 +88,49 @@
 - Helped on Axios Wrapper & Memory leak analysis
 - Order GMV cron
 
+28/03/2022 - 03/04/2022
+- Add Logging to Cron Server
+- Fix Flaky Tests
+- Modify Order Gmv Flow without Webhook
 
+04/04/2022 - 10/04/2022
+- Datadog Demo & Exploration
+- Order GMV Report for all Apps CLI
+- Add BullMq helpers & Refine queue setup
+- Cron Setup & Deployment
+
+11/04/2022 - 17/04/2022
+- Implement Config Module for constants & env vars
+- Add validation for mandatory env vars
+- Upgrade Project Library Dependencies
+- Calculate Daily, Weekly & Monthly Sales in Order Gmv
+
+18/04/2022 - 24/04/2022
+- Trigger Order Gmv Start Api from API's
+- OTP Login Planning & Execution
+- Store Order Gmv data in Dynamodb
+- Implement Slack Notification
+
+25/04/2022 - 01/05/2022
+- OTP Deployment
+- Migrate DB values from one path to another (App Status)
+- Enhance Order Gmv Logic
+- Post Order Gmv to Slack
+- Drain NXT API & NXT Cron Logs to Datadog
+- Refining Datadog pipeline & index
+- Create Log Views
+
+02/05/2022 - 08/05/2022
+- Help on Exchange Rates Job
+- Add Health Check
+- Fix Order GMV Pause/Resume Issue
+- Modify GMV Slack Notification
+
+09/05/2022 - 15/05/2022
+- Order GMV Segment Fix & Verification Helper
+- Cron Release (Push Notification, Store Status & E-Blogger)
+- Zoho CRM Integration
+- 
 
 ### Collaboration & mentorship
 
