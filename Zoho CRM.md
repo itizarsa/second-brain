@@ -170,3 +170,15 @@ Merge Accounts in Zoho?
 - Feasibility of Zoho Automation Workflow to Create/Update Deal
 
 
+- Pipedrive <-> Zoho CRM - API
+- Pipedrive deal unique value - AppId
+- Cleanup Zoho CRM - Yes
+- Pipedrive - Vig
+- Shopify Partners - Vig
+
+- Pipedrive  
+  - Notes, Activities & Attachments
+
+
+- If deal exists in CS & Onboarding pipeline, create deal in zoho with deal details from CS pipleine
+- If deal exist only in Onboarding pipleine, create deal in zoho with deal details from Onboarding pipleine
