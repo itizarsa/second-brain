@@ -11,6 +11,8 @@ eval "$(fnm env --use-on-cd)"
 ## Fnm Usage
 
 ```
+fnm list
+
 fnm install <node-version>
 
 fnm alias <version> <name>
