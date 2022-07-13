@@ -1,0 +1,68 @@
+# Engineering Management
+
+- Business
+- Product
+- Planning, Execution, Delivery & Quality
+- People
+- Tech Excellence & Ops Excellence
+
+- People
+  - Budget
+  - Team Structure
+    - No same level talent
+  - Hiring
+    - Pre-brief
+    - Bucket
+    - Percentile
+  - Onboarding
+    - Docs
+  - Retention
+    - High performer
+    - Low performer
+  - Regular Sync Up
+    - Have 1:1 as docs
+    - Let your Manager know the Issues & High performers 
+      - Helps on appraisal & layoff or firing
+  - Pulse Check
+    - Be a Hero in your team, make your Manager as villain if needed (Convey this to Manager)
+  - Firing
+  - Performance Managment
+    - Improve your teammate
+    - Pass feedback as fast as possible
+    - Negative content can be conveyed in a good approach
+  - R&R
+    - Shouldn't create Dynamics
+  - L&D
+
+
+- Planning, Execution, Delivery & Quality
+  - Planning
+    - Business Impact (Founders or Board of Dir)
+    - AOP - Director of Program Management
+      - Business Units - OKR
+        - EM + PM (Roadmap for 18 months) - TPM
+          - Sprints
+          - Capabilities
+          - Limitation
+          - Product Business Impact / Feature / Usage
+          - Dependency Identification
+    - Capacity Planning (Quarterly)
+      - 45 working days
+      - Dependency identification (Format given by TPM)
+        - 70% own team & 20% cross team & 10% adhoc | prod incidents | tech debt
+      - With & Without dependency Product plan
+      - Involve L3 people if practical
+      - Inter Team - EM 
+      - Cross Team - TPM
+      - Ensure breadth instead of your depth
+      - Capacity Allocation
+        - KTLO / Bug / Prod Incident - %
+        - Non Productive - %
+          - Sprint Ceremonies
+        - Tech Debt / Modernisation - %
+        - Dependent Team - %
+        - Feature - %
+  - Execution
+    - 
+  - Delivery
+    - 
